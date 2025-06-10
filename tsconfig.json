@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./apps/meal-app-client"
+    },
+    {
+      "path": "./apps/meal-app-service-e2e"
+    },
+    {
+      "path": "./apps/meal-app-service"
     }
   ]
 }
