@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "@nestjs/mapped-types": "*"
+  },
   "name": "@meal-app-monorepo/meal-app-service",
   "version": "0.0.1",
   "private": true,
