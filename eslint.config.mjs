@@ -28,6 +28,7 @@ export default [
   {
     files: [
       '**/*.ts',
+      '**/*.entity.ts',
       '**/*.tsx',
       '**/*.cts',
       '**/*.mts',
